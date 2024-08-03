@@ -33,7 +33,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "   "
+    "url": ""
   },
-  "description": ""
+  "description": "",
+  "engines": {
+    "node": "18.x"
+  }
 }
