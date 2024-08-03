@@ -22,7 +22,7 @@ const login = (client) => {
   client.inter = new Array()
 
 
-  client.login(client.config.token)
+  client.login(process.env.TOKEN)
 
 }
 
