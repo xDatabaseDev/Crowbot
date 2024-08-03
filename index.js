@@ -28,6 +28,7 @@ const db = require('quick.db')
 const ms = require("ms")
 const { MessageEmbed } = require('discord.js')
 const {login } = require("./util/login.js");
+const keep_alive = require("./keep_alive.js")
 login(client)
 process.on("unhandledRejection", err => {
    if(err.message) return
