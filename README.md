@@ -1,7 +1,3 @@
-Voici un exemple de README pour ton projet de bot hébergé sur Render, avec des instructions détaillées, des emojis et des blocs de code :
-
----
-
 # 🤖 CrowBot - Un Bot Discord pour Render
 
 Bienvenue dans le dépôt de **CrowBot**, un bot Discord simple conçu pour être hébergé sur [Render](https://render.com/) et maintenir sa connexion active grâce à [UptimeRobot](https://uptimerobot.com/).
