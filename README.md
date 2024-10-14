@@ -31,9 +31,9 @@ cd Crowbot
 2. Sélectionne **Web Service** et choisis ton dépôt GitHub.
 3. Dans la section **Environment Variables**, ajoute la variable suivante :
 
-   - `DISCORD_TOKEN` : Le token de ton bot Discord.
+   - `TOKEN` : Le token de ton bot Discord.
 
-4. Règle le **Start Command** sur `node index.js` (ou ton fichier principal).
+4. Règle le **Start Command** sur `node index.js`
 
 
 
@@ -71,4 +71,3 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](./LICENSE) pour plus 
 
 ---
 
-Avec ce README, les utilisateurs pourront facilement suivre les étapes pour configurer et héberger le bot sur Render et utiliser UptimeRobot pour maintenir le bot actif. 😊
