@@ -22,7 +22,7 @@ Avant de démarrer, assure-toi d'avoir :
 
 ```bash
 git clone https://github.com/xDatabaseDev/Crowbot
-cd ton-repo
+cd Crowbot
 ```
 
 ### 2. Configuration de Render
